@@ -9,6 +9,10 @@
 
 -->
 <urlrewrite>
+	<rule>
+		<from>/library/</from>
+		<to>/library.jsp</to>
+	</rule>
 
     <!--
 
